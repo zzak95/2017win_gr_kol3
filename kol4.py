@@ -1,4 +1,4 @@
-#testing my own kol2
+#testing my own kol1
 
 import unittest
 from kol2 import Client
